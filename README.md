@@ -5,3 +5,10 @@ This analysis attempts to answer the question of what the key factors are in mak
 **"FinalMLProject_CompleteCodes.ipynb"** This is the python script that performs the data analysis
 
 **"Movie project  document.pdf"** This report presents the results and findings from the analysis conducted in "FinalMLProject_CompleteCodes.ipynb"
+
+### summary of the analysis
+Data Loading: Loads the XYZ data from the provided dataset.
+Data Cleaning: Preprocesses the data to handle missing values and inconsistencies.
+Exploratory Data Analysis (EDA): Conducts exploratory data analysis to understand data distributions and relationships.
+Modeling: Applies machine learning models to identify patterns and make predictions.
+Results: Output the results, which are summarized and interpreted in report.pdf.
