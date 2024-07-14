@@ -6,6 +6,13 @@ This analysis attempts to answer the question of what the key factors are in mak
 
 **"Movie project  document.pdf"** This report presents the results and findings from the analysis conducted in "FinalMLProject_CompleteCodes.ipynb"
 
+## Data set
+The data set was taken from the following link: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset.
+
+These files contain metadata for all 45,000 movies in the Full MovieLens Dataset. The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts, and vote averages.
+
+This dataset also contains 26 million ratings from 270,000 users for all 45,000 movies. Ratings are on a scale of 1-5, obtained from the official GroupLens website.
+
 ## Summary of the analysis
 Data Loading: Loads the XYZ data from the provided dataset.
 
