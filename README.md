@@ -40,7 +40,7 @@ This dataset also contains 26 million ratings from 270,000 users for all 45,000 
 
 **Random Forest Model・ランダムフォレストモデル:** The Random Forest Model was best suited with a Train Accuracy of 0.94, Train Precision of 0.942, Test Accuracy of 0.88, and Test Precision of 0.89.
 
-ランダム フォレスト モデルは、トレイン精度 0.94、トレイン精度 0.942、テスト精度 0.88、テスト精度 0.89 で最適でした。
+ランダム フォレスト モデルは、"Train Precision" 0.94、"Train Accuracy" 0.942、"Test Accuracy" 0.88、"Test Precision" 0.89 で最適でした。
 
 **Runtime・上映時間:** Runtime was found to be the second most significant predictor. Longer movies tend to receive higher critical ratings, aligning with Mark Hofmeyer's article that discusses the positive correlation between movie length and Rotten Tomato ratings.
 
